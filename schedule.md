@@ -8,7 +8,7 @@
 | 2 | Sep 7 | Labor Day - No class |  | - |
 | 2 | Sep 9 | Stacks, Queues & Recursion foundations | [lecture 4 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Recursion_Foundations.pptx) | **PA1 released** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA1/PA1_Assignment.md)|
 | 2 | Sep 11 | Logarithms & growth rates | Roughgarden Chapter 2 pp. 33-38, [lecture 5 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Logarithms_Growth_Rates.pptx) | - |
-| 3 | Sep 14 | Asymptotic Notations | Roughgarden Chapter 2 (everything, including quizes and exercises. Except Little-o notation and Challenge problems) [lecture 6 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Asymptotic_Analysis.pptx) | **check email for in-class assignemnt** | 
+| 3 | Sep 14 | Asymptotic Notations | Roughgarden Chapter 2 (everything, including quizes and exercises. Except Little-o notation and Challenge problems) [lecture 6 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Asymptotic_Analysis.pptx) | **check email for in-class assignment** | 
 | 3 | Sep 16 | Divide and Conquer - Linear vs Binary search| TBD | - |
 | 3 | Sep 18 | Sorting I | TBD | **PA1 due** |
 | 4 | Sep 21 | Sorting II | TBD | - |
