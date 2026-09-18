@@ -10,7 +10,7 @@
 | 2 | Sep 11 | Logarithms & growth rates | Roughgarden Chapter 2 pp. 33-38, [lecture 5 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Logarithms_Growth_Rates.pptx) | - |
 | 3 | Sep 14 | Asymptotic Notations | Roughgarden Chapter 2 (everything, including quizes and exercises. Except Little-o notation and Challenge problems) [lecture 6 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Asymptotic_Analysis.pptx) | **check email for in-class assignment** | 
 | 3 | Sep 16 | Asymptotic Analysis & Divide and Conquer (in Search) | Roughgarden Chapter 3 pp. 45, 55-58, [lecture 7 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Divide_and_Conquer_v2.pptx) | - |
-| 3 | Sep 18 | Sorting I | Roughgarden Chapter 4, section 4.2 & 4.3. pp. 73-79 [lecture 8 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sorting_Algorithms.pptx) | **PA1 due** |
+| 3 | Sep 18 | Elementary Sort Algorithms: Bubble, Insertion, Selection | Roughgarden Chapter 4, section 4.2 & 4.3. pp. 73-79 [lecture 8 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sorting_Algorithms.pptx) | **PA1 due** |
 | 4 | Sep 21 | Sorting II | TBD | - |
 | 4 | Sep 23 | Sorting III | TBD | **PA2 released** | 
 | 4 | Sep 25 | Flex |  | - |
