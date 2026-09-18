@@ -1,5 +1,5 @@
 """
-In Class Exercise -- Doubling Test
+Bonus Assignment -- Doubling Test
 CS 383 Algorithms Analysis and Design
 
 Fill in the TODO sections below with your own code, then run this
@@ -7,8 +7,9 @@ script to check your answers:
 
     python doubling_test.py
 
-Submit this completed .py file before Monday's class on September 14th. 
-10 points towards Class participation category. 
+Submit this completed .py file on or before PA2 is due. Google classroom will have something. 
+Bonus assignment: Submission is optional but if you submit then your points will count towards the assignment category (40% of your grade). 
+
 """
 
 import math
