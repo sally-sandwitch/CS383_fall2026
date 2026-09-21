@@ -66,8 +66,24 @@ if __name__ == "__main__":
 
     """
     # -----------------------------------------------------------------
-    # Written response: in your own words, explain how you arrived at
-    # your answer for part (c). (2-3 sentences)
+    # -----------------------------------------------------------------
+    # Part (c): Written response — order of growth
+    # -----------------------------------------------------------------
+    # Look at the `ratios` and `exponents` printed above, then answer
+    # the following in 4-6 sentences (edit the `explanation` string
+    # below):
+    #
+    #   1. Are the three ratios T(2n)/T(n) close to each other, or do
+    #      they drift as n gets larger? What does that tell you about
+    #      the nature of growth of T(n)?
+    #
+    #   2. Look at your average exponent b. It does not have to be a
+    #      whole number. What does its value tell you about how fast
+    #      this algorithm's running time grows as n gets large -- for
+    #      example, is it closer to linear (b=1), linearithmic-ish,
+    #      quadratic (b=2), or somewhere in between? Justify using the
+    #      actual value of b you computed, not just a guess.
+    # Written response: in your own words. (3-4 sentences)
     # -----------------------------------------------------------------
     explanation = """
     TODO: write your explanation here.
