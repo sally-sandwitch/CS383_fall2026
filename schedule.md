@@ -11,8 +11,8 @@
 | 3 | Sep 14 | Asymptotic Notations | Roughgarden Chapter 2 (everything, including quizes and exercises. Except Little-o notation and Challenge problems) [lecture 6 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Asymptotic_Analysis.pptx) | **check email for in-class assignment** | 
 | 3 | Sep 16 | Asymptotic Analysis & Divide and Conquer (in Search) | Roughgarden Chapter 3 pp. 45, 55-58, [lecture 7 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Divide_and_Conquer_v2.pptx) | - |
 | 3 | Sep 18 | Elementary Sort Algorithms: Bubble, Insertion, Selection | Roughgarden Chapter 4, section 4.2 & 4.3. pp. 73-79 [lecture 8 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sorting_Algorithms.pptx) | **PA1 due, [Bonus Assignment Released](https://github.com/tanwistha/cs383_fall26/blob/main/inclass/doubling_test.py)** |
-| 4 | Sep 21 | Sorting II | TBD | - |
-| 4 | Sep 23 | Sorting III | TBD | **PA2 released** | 
+| 4 | Sep 21 | Sorting II: MergeSort | Roughgarden, Chapter 1, Section 1.4 & 1.5; [lecture 9 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sorting_Algorithms_II.pptx) | **PA2 released** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA2/sorting_template.py) |
+| 4 | Sep 23 | Sorting III | TBD | TBD | 
 | 4 | Sep 25 | Flex |  | - |
 | 5 | Sep 28 | Priority queues; binary heaps; heap operations | TBD | - |
 | 5 | Sep 30 | Heaps (contd.) and Heapsort | TBD | **PA2 due** |
